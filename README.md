@@ -49,9 +49,6 @@ Choosing GraphQL ensures that even after future extensions of the underlying dat
 * A further development of existing functions and new functions.
 * Unit test function for further developed and new functions.
 
-These features can then be integrated into the CryptoPanel API application, as this is based on the GraphQL interface.
-
-In the project, the choice of Spring and Spring-Boot was specified as the development framework. The framework offers very unusual mechanisms to handle standard tasks such as routing, database connections and the integration of dependencies (Dependency Injection, DI). However, the high degree of abstraction shows a good familiarization with the standards of the framework in many places, which leads to a steep learning curve at the beginning. This familiarization period was underestimated during project planning, which is reflected in the increased time required to implement the application.
 ---
 
 
