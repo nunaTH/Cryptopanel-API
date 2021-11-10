@@ -50,23 +50,17 @@ Choosing GraphQL ensures that even after future extensions of the underlying dat
 * Unit test function for further developed and new functions.
 
 ---
-### Reference Documentation
+### Reference Documentation and Additional Links
 
 For further reference, please consider the following sections:
 
 * [Official Gradle documentation](https://docs.gradle.org)
 * [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.4.5/gradle-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.4.5/gradle-plugin/reference/html/#build-image)
-
-### Additional Links
+* [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
 These additional references should also help you:
 
-* [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
-
-* spring_version: current
-* spring_boot_version: 2.1.6.RELEASE
-* Controller: http://docs.spring.io/spring/docs/{spring_version}/javadoc-api/org/springframework/stereotype/Controller.html
-* SpringApplication: http://docs.spring.io/spring-boot/docs/{spring_boot_version}/api/org/springframework/boot/SpringApplication.html
-* Project_id: gs-accessing-data-mysql
-
+* spring_version: https://start.spring.io [Spring beginnen
+Initializr].
+* https://dev.mysql.com/downloads/[MySQL] 
+* java_version:https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/prereq_editor_jdk_buildtools.adoc
